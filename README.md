@@ -1,2 +1,2 @@
 # google-homepage
-Css excercise project
+Css excercise project. Just a simple project
